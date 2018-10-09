@@ -1,0 +1,77 @@
+player1 plays [Seven of Diamonds]
+player2 plays [Three of Diamonds]
+thirdwheel plays [Five of Diamonds]
+player2 Won Round
+Score is player1 0, player2 4, thirdwheel 0
+player1 plays [Six of Hearts]
+player2 plays [King of Hearts]
+thirdwheel plays [Queen of Clubs]
+thirdwheel Won Round
+Score is player1 0, player2 4, thirdwheel 3
+player1 plays [Four of Hearts]
+player2 plays [Ten of Hearts]
+thirdwheel plays [Five of Clubs]
+thirdwheel Won Round
+Score is player1 0, player2 4, thirdwheel 6
+player1 plays [Jack of Hearts]
+player2 plays [Three of Hearts]
+thirdwheel plays [Jack of Diamonds]
+War!
+thirdwheel Won Round
+Score is player1 0, player2 4, thirdwheel 12
+player1 plays [Nine of Clubs]
+player2 plays [Queen of Spades]
+thirdwheel plays [King of Diamonds]
+player1 Won Round
+Score is player1 3, player2 4, thirdwheel 12
+player1 plays [Eight of Hearts]
+player2 plays [Ace of Hearts]
+thirdwheel plays [Ten of Spades]
+thirdwheel Won Round
+Score is player1 3, player2 4, thirdwheel 15
+player1 plays [Eight of Spades]
+player2 plays [Ace of Diamonds]
+thirdwheel plays [Queen of Diamonds]
+thirdwheel Won Round
+Score is player1 3, player2 4, thirdwheel 18
+player1 plays [King of Clubs]
+player2 plays [Three of Clubs]
+thirdwheel plays [Nine of Spades]
+player2 Won Round
+Score is player1 3, player2 7, thirdwheel 18
+player1 plays [Seven of Hearts]
+player2 plays [Three of Spades]
+thirdwheel plays [Two of Diamonds]
+player2 Won Round
+Score is player1 3, player2 10, thirdwheel 18
+player1 plays [Eight of Diamonds]
+player2 plays [Seven of Spades]
+thirdwheel plays [Ace of Clubs]
+player1 Won Round
+Score is player1 6, player2 10, thirdwheel 18
+player1 plays [Five of Spades]
+player2 plays [Ten of Diamonds]
+thirdwheel plays [Four of Diamonds]
+player1 Won Round
+Score is player1 9, player2 10, thirdwheel 18
+player1 plays [Five of Hearts]
+player2 plays [Nine of Hearts]
+thirdwheel plays [King of Spades]
+thirdwheel Won Round
+Score is player1 9, player2 10, thirdwheel 21
+player1 plays [Four of Spades]
+player2 plays [Jack of Spades]
+thirdwheel plays [Ten of Clubs]
+player1 Won Round
+Score is player1 12, player2 10, thirdwheel 21
+player1 plays [Two of Spades]
+player2 plays [Ace of Spades]
+thirdwheel plays [Two of Clubs]
+player2 Won Round
+Score is player1 12, player2 13, thirdwheel 21
+player1 plays [Queen of Hearts]
+player2 plays [Eight of Clubs]
+thirdwheel plays [Jack of Clubs]
+player2 Won Round
+Score is player1 12, player2 16, thirdwheel 21
+thirdwheel Wins Game!
